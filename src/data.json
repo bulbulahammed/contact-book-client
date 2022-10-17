@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Bulbul Ahammed",
+    "age": 27,
+    "sex": "male",
+    "image": "https://i.ibb.co/0ZmdxPM/Profile.jpg",
+    "address": {
+      "city": "Tangail",
+      "state": "Dhaka",
+      "country": "Bangladesh"
+    },
+    "email": "mdbulbulahammed@gmail.com",
+    "phone": "+8801774586852",
+    "profession": "React Developer"
+  },
+  {
+    "name": "Sharkar Sumon",
+    "age": 26,
+    "sex": "male",
+    "image": "https://i.ibb.co/Khp96SJ/Doctor-sumon.jpg",
+    "address": {
+      "city": "Tangail",
+      "state": "Kathmando",
+      "country": "Nepal"
+    },
+    "email": "sharkar@gmail.com",
+    "phone": "+8801765286852",
+    "profession": "KDP publisher"
+  },
+  {
+    "name": "Alamin Hossain",
+    "age": 25,
+    "sex": "male",
+    "image": "https://i.ibb.co/vqTKwpQ/Doctor-Al-Amin.jpg",
+    "address": {
+      "city": "Tangail",
+      "state": "Singapore City",
+      "country": "Singapore"
+    },
+    "email": "alaminhossain@gmail.com",
+    "phone": "+8801774569852",
+    "profession": "UX/UI Designer"
+  },
+  {
+    "name": "Farhad Ahammed",
+    "age": 22,
+    "sex": "male",
+    "image": "https://i.ibb.co/2YhpRP2/farhad.jpg",
+    "address": {
+      "city": "Tangail",
+      "state": "Jakarta",
+      "country": "Indonesia"
+    },
+    "email": "ahammedfarhad@gmail.com",
+    "phone": "+8801774596325",
+    "profession": "Student"
+  }
+]
